@@ -3,7 +3,7 @@ from time import *
 
 
 def update():
-    time_string = strftime("%H:%M:%S %p")
+    time_string = strftime("%H:%M:%S")
     time_label.config(text=time_string)
 
     day_string = strftime("%A")

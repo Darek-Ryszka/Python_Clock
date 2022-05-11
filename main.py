@@ -2,7 +2,8 @@ from tkinter import *
 from time import *
 
 def update():
-    pass
+    time_string = strftime("%H:%M:%S %p")
+    time_label.config(text=time_string)
 
 window = Tk()
 

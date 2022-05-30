@@ -2,7 +2,7 @@
 Python clock program
 
 ## General info
-This project is simple Clock using Tkinter library and Time library
+This project is a simple Clock using Tkinter library and Time library
 
 ## Technologies
 * Pytohon version: 3.8

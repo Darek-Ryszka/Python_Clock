@@ -6,7 +6,8 @@ This project is a simple Clock using Tkinter library and Time library
 
 ## Technologies
 * Pytohon version: 3.8
-* Tkinter library version: 8.6
+* PyCharm 2022.1
+* Tkinter library 
 * Time library
 
 ## Startup
